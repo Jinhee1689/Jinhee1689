@@ -3,7 +3,7 @@
 > “Code. Chill. Repeat.”
 
 ## 💻 Tech Stack
-🟦 JavaScript | 💠 C++ | ⚛️ React
+JS | 💠 C++ | React
 
 ## 📊 GitHub Stats
 ![Jinh3e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhee1689&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
