@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌙 Hey there, I'm Jinh3e
 
-<!--
-**Jinhee1689/Jinhee1689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Code. Chill. Repeat.”
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+🟦 JavaScript | 💠 C++ | ⚛️ React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Jinh3e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinh3e&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
+## 🔠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinh3e&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🌌 Chill Zone
+- 🎧 Coding with lo-fi beats  
+- ☕ Late-night commits only  
+- 💬 Always up for clean code & cool projects
